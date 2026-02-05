@@ -1,0 +1,12 @@
+# Maven
+/target/
+
+# IDE
+/.idea/
+/.vscode/
+
+# Logs
+*.log
+
+# Secrets
+src/main/resources/application.properties
